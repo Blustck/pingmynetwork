@@ -1,7 +1,8 @@
-# Basic VLANs — Inter-VLAN Routing (Layer 3 Switch)
+# Inter-VLAN Routing (Layer 3 Switch)
 
 Configure VLANs and **SVIs** on a Cisco 3560 Layer 3 switch to route between networks without a separate router. Three Cisco 2960 access switches connect the PCs; the server connects directly to the Layer 3 switch.
 
+<img width="851" height="796" alt="image" src="https://github.com/user-attachments/assets/5a987024-d163-4d0e-8498-25457f19ed11" />
 
 
 **Lab built using [PingMyNetwork.com](https://pingmynetwork.com/).**
