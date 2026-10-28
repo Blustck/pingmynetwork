@@ -1,4 +1,4 @@
-# VTP Lab — Cisco Switches
+# VTP Lab
 <img width="1377" height="595" alt="image" src="https://github.com/user-attachments/assets/d2a02ebe-1c24-47c1-9c53-c12d5a4715c2" />
 
 
