@@ -4,15 +4,15 @@
 
 Configure **VTP version 2** across three Cisco 3560 switches to share VLANs automatically.
 
-- **S1 — Server:** Creates and advertises VLANs.
-- **S2 — Transparent:** Maintains local VLANs and forwards VTP updates.
-- **S3 — Client:** Learns VLANs from the server.
+- **S1: Server:** Creates and advertises VLANs.
+- **S2: Transparent:** Maintains local VLANs and forwards VTP updates.
+- **S3: Client:** Learns VLANs from the server.
 - **Domain:** `ccna`
 - **Topology:** S1 ↔ S2 ↔ S3
 
 **Lab created using [PingMyNetwork.com](https://pingmynetwork.com/).**
 
-## S1 — VTP Server
+## S1: VTP Server
 
 ```cisco
 conf t
@@ -32,7 +32,7 @@ end
 write memory
 ```
 
-## S2 — VTP Transparent
+## S2: VTP Transparent
 
 ```cisco
 conf t
@@ -57,7 +57,7 @@ end
 write memory
 ```
 
-## S3 — VTP Client
+## S3: VTP Client
 
 ```cisco
 conf t
