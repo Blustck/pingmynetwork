@@ -4,6 +4,7 @@ Combine two physical switch links into one logical **Port-channel** using LACP (
 This lab is done in https://pingmynetwork.com
 
 ## Topology
+<img width="1522" height="763" alt="image" src="https://github.com/user-attachments/assets/20f84523-6901-4d5c-953d-e4677c8f491d" />
 
 - **SW1 Gi0/1–2 ↔ SW2 Gi0/1–2** (LACP EtherChannel)
 - **PC1 → SW1 Fa0/1:** `192.168.10.10/24`
