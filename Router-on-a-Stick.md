@@ -2,7 +2,7 @@
 
 Configure **Router-on-a-Stick (RoaS)** to route between VLANs 10, 20, and 30 using a single router interface and an 802.1Q trunk.
 
-![Uploading image.png…]()
+<img width="700" height="817" alt="image" src="https://github.com/user-attachments/assets/d490ba82-01a5-473e-aa3f-e3bc6a129129" />
 
 **Lab built using [PingMyNetwork.com](https://pingmynetwork.com/).**
 
