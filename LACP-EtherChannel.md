@@ -1,6 +1,7 @@
 # LACP EtherChannel Lab (Cisco 2960)
 
 Combine two physical switch links into one logical **Port-channel** using LACP (`active` mode). If one link fails, the other can continue forwarding traffic.
+This lab is done in https://pingmynetwork.com
 
 ## Topology
 
